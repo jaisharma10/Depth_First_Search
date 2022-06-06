@@ -27,6 +27,27 @@ Implement Breath First Search [DFS] algorithm on a map between a given start and
         <img src = "https://upload.wikimedia.org/wikipedia/commons/7/7f/Depth-First-Search.gif" width = "210">
 </p>
 
+## Empty Map Results 
+
+Start Node:(1,1) --> Goal Node:(5,5) |  Start Node:(7,9) --> Goal Node:(1,2)| Start Node:(6,6) --> Goal Node:(10,10)
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src = "Images/dfs_empty1.PNG" width = "250">  |  <img src = "Images/dfs_empty2.PNG" width = "250">| <img src = "Images/dfs_empty3.PNG" width = "250">
+
+## Obstacle Map Results 
+
+Map 1: (1,10) --> (10,1)   |  Map 2: (1,10) --> (10,1) 
+:-------------------------:|:-------------------------:
+<img src = "Images/dfs_map1.PNG" width = "350">  |  <img src = "Images/dfs_map2.PNG" width = "350">
+
+## Maze Map Results
+
+<p align="center">
+        Start Node:(1,1) --> Goal Node:(16,1)
+</p>
+
+<p align="center">
+       <img src = "Images/dfs_maze.PNG" width = "600">
+</p>
 
 ## Support
 For any questions, email me at jaisharm@umd.edu
